@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "Calculator app built with Visual Studio 2017 using C# as the programming code language.",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "emancalculator",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
